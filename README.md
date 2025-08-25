@@ -1,5 +1,5 @@
 <!-- PROFILE: README.md -->
-<h1 align="center">Привіт, я Springles 👋</h1>
+<h1 align="center">Привіт, я Deep 👋</h1>
 
 
 <p align="center">
@@ -19,29 +19,19 @@ Full‑stack & tooling enjoyer — Python/Node.js/React, .NET (C#), PostgreSQL.
 ### 🔧 Стек та інтереси
 - **Back‑end:** Node.js (Express), Python (automation, bots), C#/.NET
 - **Front‑end:** React + Tailwind, прості адмінки
-- **БД:** PostgreSQL, Firebird (адмінка/бекапи), SQLite
+- **БД:** PostgreSQL, Firebird, SQLite
 - **DevOps:** Ubuntu сервери, Nginx, ddns, GitHub Actions
-- **Бізнес‑інструменти:** Odoo (QWeb шаблони рахунків/актів), Medoc інтеграції, BAS/1С сервіси
-- **Data/ML:** Fraud‑детекція (Kaggle), аналіз фінансових ринків, TradingView індикатори
-
-
-### 🚀 Проекти (виділити у Pinned)
-- **Vet Clinic Bot** — телеграм‑бот + адмінка + сервер (JS). Записи, товари, консультації.
-- **StockExchange (.NET C#)** — навчальний проєкт біржі: ордери, портфелі, користувачі.
-- **CoffeeShop (.NET C#)** — CRUD/база для магазину, WinForms/WPF консепти.
-- **Odoo QWeb Templates** — піксель‑перфект шаблони під стиль Medoc.
-- **PDF Metadata Editor (Tkinter)** — легкий інструмент для редагування метаданих PDF.
+- **Бізнес‑інструменти:** Odoo, Medoc інтеграції, BAS/1С сервіси
+- **Data/ML:** Kaggle, аналіз фінансових ринків, TradingView індикатори, Big Data, 
 
 
 ### 💡 Чим можу бути корисним
-- Піднять сервіс на Ubuntu з доменом/HTTPS
-- Зробити телеграм‑бота під PostgreSQL
-- Налаштувати Odoo або інтеграцію з Medoc/BAS
+Усім і ще трошки
 
 
 ### 📫 Контакти
-- Telegram: `@your_handle`
-- Email: `your@email`
+- Telegram: `@springlesmc`
+- Email: `deependser@gmail.com`
 
 
 <sub>Люблю психологічні трилери і дані 🧠📈</sub>
