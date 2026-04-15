@@ -112,10 +112,6 @@ roman = {
 
 <div align="center">
 
-![Roman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpringlesMcOutrage&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpringlesMcOutrage&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=CBD5E1)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SpringlesMcOutrage&theme=tokyonight&hide_border=true&background=0F172A&stroke=3B82F6&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6)](https://git.io/streak-stats)
 
 </div>
